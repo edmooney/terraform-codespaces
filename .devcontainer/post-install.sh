@@ -24,6 +24,6 @@ unzip "terraform_"$VERSION"_linux_amd64.zip"
 sudo install terraform /usr/local/bin/
 
 # install tfsec
-cd ~
-wget "https://github.com/tfsec/tfsec/releases/download/v0.36.12/tfsec-linux-amd64"
-sudo cp tfsec-linux-amd64 /usr/local/bin/
+# cd ~
+# wget "https://github.com/tfsec/tfsec/releases/download/v0.36.12/tfsec-linux-amd64"
+# sudo cp tfsec-linux-amd64 /usr/local/bin/

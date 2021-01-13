@@ -1,7 +1,7 @@
 {
   "name": "terraform-codespaces",
   "settings": {
-    "terminal.integrated.shell.linux": "/bin/zsh"
+    "terminal.integrated.shell.linux": "/bin/sh"
   },
   "extensions": [
     "eamodio.gitlens",
